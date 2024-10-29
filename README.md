@@ -7,12 +7,7 @@ This is a **Netflix Frontend Clone** built with **React JS**. The project uses *
 - **User Authentication**: Firebase Authentication is used to enable secure sign-in and sign-up.
 - **Firestore Integration**: User data and preferences are stored and managed in Firestore.
 - **Responsive Design**: The layout adjusts for mobile, tablet, and desktop views to provide a seamless user experience.
-- **Netflix-style Interface**: Browse, search, and view content similar to the Netflix UI.
 - **React Hooks and Functional Components**: Modern React practices for improved performance and readability.
-
-## Demo
-
-A live demo of the application can be accessed at: *[Your Demo Link Here]*
 
 ## Installation
 
